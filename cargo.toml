@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "test",      
+    "servo-driver" 
+]
+resolver = "2"
