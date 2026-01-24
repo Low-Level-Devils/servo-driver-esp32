@@ -6,7 +6,6 @@ This Rust based driver is for controlling servo motors using an ESP32.
 ## Required Hardware
 - ESP32
 - Servo Motor
-- Jumper Wires
 - 5V DC power Supply
 - Breadboard
 - Jumper Wires
